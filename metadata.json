@@ -1,0 +1,6 @@
+{
+  "name": "Alien",
+  "symbol": "ALN",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/stewart-lore/token-host/refs/heads/main/logo.png"
+}
